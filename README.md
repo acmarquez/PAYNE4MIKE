@@ -4,3 +4,5 @@ This is an adaptation from Yuan-Sen Ting's original The Payne model. I changed t
 To run this code, clone this repository, and run "two_layers_training.ipynb"
 
 There exist files for more layers, but I chose this one since it was the most cleaned up code.
+
+Link to data(won't run without): https://drive.google.com/file/d/1xmxe4CN6CpIsriPqq5CjCv34smlAAoYn/view?usp=sharing
